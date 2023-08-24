@@ -16,6 +16,12 @@ App para lembrar a hora de postar no Insta.
 - App Desktop com Electron
 - ... muito mais
 
+## Electron.JS
+
+npm install --save-dev electron
+
+npm start
+
 ## Autor
 
 **Mayk Brito**
